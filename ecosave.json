@@ -1,0 +1,14 @@
+{
+  "name": "EcoSave Token List",
+  "timestamp": "2026-01-05T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xE0E010D0247F2a6dC26594450E923aaE0B27B145",
+      "name": "EcoSave",
+      "symbol": "ECO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/jlcseg/ecosave-tokenlist/refs/heads/main/Ecosave.png"
+    }
+  ]
+}
